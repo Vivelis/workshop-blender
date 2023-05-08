@@ -17,7 +17,8 @@ version:		1.0
 
 ## Overview
 
-In this workshop, you will learn the fundamentals of Blender, a powerful open-source 3D modeling and animation software. Whether you are a beginner or have some experience with Blender, this workshop will provide you with the skills and knowledge needed to create stunning 3D models and animations.
+In this workshop, you will learn the fundamentals of Blender, a powerful open-source 3D modeling and animation software.
+Whether you are a beginner or have some experience with Blender, this workshop will provide you with the skills and knowledge needed to create stunning 3D models and animations.
 
 ## Introduction
 
@@ -89,7 +90,9 @@ If you don't have already installed Blender, you can download it from the [offic
 
 ## Conclusion
 
-By the end of this 2-hour workshop, you will have gained a basic understanding of Blender's interface, essential modeling techniques, and basic animation concepts. You will be able to create your own simple 3D objects, apply materials and textures, and create basic animations. Join us and take your first steps into the exciting world of Blender!
+By the end of this 2-hour workshop, you will have gained a basic understanding of Blender's interface, essential modeling techniques, and basic animation concepts.
+You will be able to create your own simple 3D objects, apply materials and textures, and create basic animations.
+Join us and take your first steps into the exciting world of Blender!
 
 #newpage
 
@@ -204,4 +207,6 @@ Resources [blender interface](https://docs.blender.org/manual/en/dev/interface/i
 
 ## Conclusion
 
-If you have reach this far, congratulations! You have completed the Blender 3D Modeling and Animation Workshop. We hope you have learned a lot and enjoyed the workshop. If you have any questions or feedback, please feel free to create an issue on [the repos](https://github.com/Vivelis/workshop-blender/issues) with your question or feedback. We will try our best to answer your questions and improve the workshop based on your feedback.
+If you have reach this far, congratulations! You have completed the Blender 3D Modeling and Animation Workshop. We hope you have learned a lot and enjoyed the workshop.
+If you have any questions or feedback, please feel free to create an issue on [the repos](https://github.com/Vivelis/workshop-blender/issues) with your question or feedback. We will try our best to answer your questions and improve the workshop based on your feedback.
+
